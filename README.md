@@ -12,4 +12,4 @@ technology usable for people with disabilities, mostly on-device machine learnin
 
 **Tools:** Swift · Kotlin · Python · Dart/Flutter · PyTorch · ONNX · FastAPI · Docker
 
-Looking for 2027 internships and co-ops.
+Looking for 2027 internships and co-ops · [LinkedIn](https://www.linkedin.com/in/shivani-radhakrishnan-645a49257/)
